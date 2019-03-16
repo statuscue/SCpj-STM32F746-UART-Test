@@ -1,0 +1,8 @@
+
+\.settings/
+
+SCpj-STM32F746-UART-Test\.elf\.launch
+
+SCpj-STM32F746-UART-Test\.ioc
+
+STM32F746ZG_FLASH\.ld
